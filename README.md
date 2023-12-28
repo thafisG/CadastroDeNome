@@ -1,2 +1,12 @@
-# Cadastro
-Esse repositorio é um exercicio sobre cadastro de Alunos feito no bootcamp da DIO em parceria com a AVANADE. 
+
+# Cadastro de Alunos
+
+Projeto realizado no bootcamp da DIO em conjunto a AVANADE.
+
+## 📚 O que foi feito no projeto 
+- [Propriedades]().
+- [Validação de GET e SET]().
+- [implementação de construtor]().
+- [Modificador de acesso]().
+
+
